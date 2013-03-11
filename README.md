@@ -19,3 +19,4 @@ I'm pretty loose about the contents of this repo. Certain directories may have d
 ## Packages
 
 - [Neverend](https://github.com/willyg302/UDKHub/tree/master/Neverend): contains the entire source code of my [iOS game Never End](http://forums.epicgames.com/threads/919305-NEVER-END-iOS-Physics-Puzzler-Now-On-the-App-Store!)
+- [Characters](https://github.com/willyg302/UDKHub/tree/master/Characters): everything related to characters in UDK (currently a little sparse)
