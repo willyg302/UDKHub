@@ -1,0 +1,1 @@
+class UDKMOBADamageTypeMagical extends DamageType;

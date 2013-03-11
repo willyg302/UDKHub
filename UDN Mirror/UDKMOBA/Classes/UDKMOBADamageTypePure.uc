@@ -1,0 +1,1 @@
+class UDKMOBADamageTypePure extends DamageType;

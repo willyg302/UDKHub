@@ -1,0 +1,1 @@
+class UDKMOBADamageTypePhysical extends DamageType;
